@@ -1,0 +1,15 @@
+[
+    {
+      "id": 1,
+      "name": "Basic Plan",
+      "description": "Limited data usage",
+      "price": 5.99
+    },
+    {
+      "id": 2,
+      "name": "Premium Plan",
+      "description": "Unlimited data usage",
+      "price": 9.99
+    }
+  ]
+  
